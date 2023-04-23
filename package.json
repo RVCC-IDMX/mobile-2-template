@@ -23,7 +23,7 @@
     "not IE 11"
   ],
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.1",
     "autoprefixer": "^10.4.8",
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.13",
